@@ -5,3 +5,4 @@ What can we say? Nothing special, we will publish all the changes, thank you!
 
 
 Edited#1: Dear friends in the project, the code contains artificial intelligence logs, which means we use the code for analysis and fixing minor bugs.
+Edited#2: At the moment, we cannot publish the source code of the server part, since most of the encryption occurs on it.
